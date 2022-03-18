@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<P>Danny Nwaneri is a  Software Engineer with expertise in React, NodeJs, MongoDB, and GraphQL. He likes solving engineering problems and believes every complicated problem can be solved with ease by breaking it down to fundamental subsets.If this sounds good to you,Feel free to throw him an email!
+<P>Dan Nwaneri is a  Software Engineer with expertise in React, NodeJs, MongoDB, and GraphQL. He likes solving engineering problems and believes every complicated problem can be solved with ease by breaking it down to fundamental subsets.If this sounds good to you,Feel free to throw him an email!
 
 </P>
 
