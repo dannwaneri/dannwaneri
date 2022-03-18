@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<P>Danny Nwaneri is a  Software Engineer with expertise in React, NodeJs, MongoDB, and GraphQL. He likes solving engineering problems and believes every complicated problem can be solved with ease by breaking it down to fundamental subsets.If this sounds good to you,Feel free to throw him an email!
+
+</P>
+
 <!--
 **dannwaneri/dannwaneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
