@@ -15,7 +15,7 @@ I'm a results-driven software engineer with 4+ years of experience architecting 
 ## 💼 What I Do
 
 - **Backend Architecture**: Building robust, scalable APIs and microservices
-- **Real-Time Systems**: Processing 500K+ daily API calls with 99.9% uptime
+- **Real-Time Systems**: Processing 2K+ daily API calls with 99.9% uptime
 - **Performance Optimization**: Achieved 60% reduction in page load times through systematic optimization
 - **Cloud Infrastructure**: Deploying serverless applications on Cloudflare Workers edge network
 - **Open Source**: Contributing to high-impact projects like [Cobalt.tools](https://github.com/imputnet/cobalt) (50K+ stars)
@@ -39,7 +39,7 @@ I'm a results-driven software engineer with 4+ years of experience architecting 
 ### [FPL Hub](https://fplhub.uk) 
 **Real-time Fantasy Premier League Analytics Platform**
 - 🎮 Serves 2000+ active users with 99.9% uptime
-- ⚡ Processes 500K+ daily API calls
+- ⚡ Processes 2K+ daily API calls
 - 🤖 Machine learning-powered price predictions
 - 📊 Real-time data processing and live match tracking
 - 🛠️ Built with: React, Node.js, MongoDB, Cloudflare Workers
@@ -57,7 +57,7 @@ I'm a results-driven software engineer with 4+ years of experience architecting 
 ## 🎓 Professional Highlights
 
 - ✅ Launched production platform with 99.9% uptime
-- ✅ Engineered data pipeline processing 500K+ daily API calls
+- ✅ Engineered data pipeline processing 2K+ daily API calls
 - ✅ Achieved 60% page load time reduction through optimization
 - ✅ Increased user engagement by 40% with ML-powered features
 - ✅ Established automated CI/CD pipelines for consistent deployment
