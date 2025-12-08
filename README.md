@@ -1,82 +1,156 @@
 # Hi there, I'm Daniel Nwaneri 👋
 
-**Full Stack Developer** | **Building Scalable Web Applications** | **Open Source Contributor**
+**Full-Stack Developer | MCP Specialist | Building AI-Powered Applications on Cloudflare Workers**
 
-I'm a results-driven software engineer with 4+ years of experience architecting high-performance backend systems and real-time data solutions. I love solving complex engineering problems by breaking them down into fundamental subsets.
-
-## 🚀 About Me
-
-- 🔭 Currently working on **[FPL Hub](https://fplhub.uk)** - A comprehensive Fantasy Premier League platform serving 2000+ users
-- 💡 Passionate about building scalable, high-performance applications with great UX
-- 🌍 Based in Port Harcourt, Nigeria
-- 🤝 Open to collaborating on exciting projects and contributing to open source
-- 📫 Reach me: **danielnwaneri41@gmail.com**
-
-## 💼 What I Do
-
-- **Backend Architecture**: Building robust, scalable APIs and microservices
-- **Real-Time Systems**: Processing 2K+ daily API calls with 99.9% uptime
-- **Performance Optimization**: Achieved 60% reduction in page load times through systematic optimization
-- **Cloud Infrastructure**: Deploying serverless applications on Cloudflare Workers edge network
-- **Open Source**: Contributing to high-impact projects like [Cobalt.tools](https://github.com/imputnet/cobalt) (50K+ stars)
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-- JavaScript (ES6+), TypeScript, Node.js, React
-- Express.js, RESTful APIs, GraphQL
-
-**Infrastructure & DevOps:**
-- Cloudflare Workers, Docker, CI/CD
-- MongoDB, SQLite, PostgreSQL
-- Git/GitHub, Performance Optimization
-
-**Currently Learning:**
-- AWS, Kubernetes, Spring Boot
-
-## 🎯 Featured Projects
-
-### [FPL Hub](https://fplhub.uk) 
-**Real-time Fantasy Premier League Analytics Platform**
-- 🎮 Serves 2000+ active users with 99.9% uptime
-- ⚡ Processes 2K+ daily API calls
-- 🤖 Machine learning-powered price predictions
-- 📊 Real-time data processing and live match tracking
-- 🛠️ Built with: React, Node.js, MongoDB, Cloudflare Workers
-
-### [Cobalt.tools Contributions](https://github.com/imputnet/cobalt)
-**Media Downloading Tool (50K+ GitHub Stars)**
-- 🌟 Contributed significant features to widely-adopted open source project
-- 👥 Collaborated with international development team
-- 🔧 Worked with large-scale codebase serving millions of users globally
-
-## 📈 GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannwaneri&show_icons=true&theme=tokyonight)
-
-## 🎓 Professional Highlights
-
-- ✅ Launched production platform with 99.9% uptime
-- ✅ Engineered data pipeline processing 2K+ daily API calls
-- ✅ Achieved 60% page load time reduction through optimization
-- ✅ Increased user engagement by 40% with ML-powered features
-- ✅ Established automated CI/CD pipelines for consistent deployment
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-nwaneri)
-- 🌐 [Portfolio: FPL Hub](https://fplhub.uk)
-- 📧 [Email](mailto:danielnwaneri41@gmail.com)
-- 🐦 [Twitter](https://twitter.com/dannwaneri)
-
-## 💭 Philosophy
-
-> "Every complicated problem can be solved with ease by breaking it down to fundamental subsets."
-
-I believe in writing clean, maintainable code that scales. Whether it's optimizing database queries, designing distributed systems, or building intuitive user interfaces, I focus on creating solutions that are both technically sound and user-friendly.
+I'm a software engineer specializing in Model Context Protocol (MCP) servers, RAG systems, and edge computing. I build production AI applications using Cloudflare Workers AI, Vectorize, and semantic search at global scale.
 
 ---
 
-⭐️ **Open to work on exciting projects!** Feel free to reach out if you'd like to collaborate or just chat about tech, FPL, or anything in between.
+## 🚀 Recent Work
 
-![Profile Views](https://komarev.com/ghpvc/?username=dannwaneri&color=brightgreen)
+**MCP Server Architecture on Cloudflare Workers**
+- Built 3 production MCP implementations (local stdio, hybrid, full edge HTTP)
+- Published comprehensive guides on DEV.to (2K+ views)
+- Sub-50ms semantic search globally using Workers AI + Vectorize
+- Open-source implementations demonstrating MCP sampling patterns
+
+**FPL Hub - Fantasy Premier League Platform**
+- Serves 2,000+ users with 99.9% uptime
+- Processes 500K+ daily API calls
+- Real-time data pipeline with ML-powered predictions
+- Built with React, Node.js, MongoDB, Cloudflare Workers
+
+---
+
+## 💡 Expertise
+
+**AI & Edge Computing:**
+- Model Context Protocol (MCP) server development
+- RAG (Retrieval Augmented Generation) systems
+- Semantic search with vector databases (Vectorize)
+- Workers AI integration (embeddings, LLMs)
+- Edge deployment & serverless architecture
+
+**Backend & Infrastructure:**
+- Cloudflare Workers, Pages, KV, R2, D1
+- High-performance APIs (500K+ daily requests)
+- Real-time data processing
+- TypeScript, Node.js, Express.js
+
+**Frontend:**
+- React, Next.js, TypeScript
+- Modern UI/UX with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+**AI/ML:** Cloudflare Workers AI, Vectorize, RAG patterns, Semantic search, Embedding models
+
+**Cloud:** Cloudflare Workers, Pages, KV, R2, D1, Serverless
+
+**Backend:** Node.js, TypeScript, Express.js, RESTful APIs
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+
+**Database:** MongoDB, PostgreSQL, SQLite, Vector databases
+
+**DevOps:** Docker, CI/CD, Git, Performance optimization
+
+---
+
+## 📝 Published Writing
+
+**Technical Articles on DEV.to:**
+- [MCP Sampling on Cloudflare Workers](https://dev.to/dannwaneri/mcp-sampling-cloudflare-workers) - Making tools intelligent without managing LLMs
+- [Building MCP Servers on Cloudflare Workers](https://dev.to/dannwaneri/building-an-mcp-server-on-cloudflare-workers-with-semantic-search-2gb8) - Edge deployment with semantic search
+- [AI-Powered FAQ System](https://dev.to/dannwaneri/building-an-ai-powered-faq-system-with-cloudflare-workers-ai-and-vectorize-4dod) - Production RAG implementation
+
+**Combined views:** 3K+ | Shared to 200K+ developers
+
+---
+
+## 🎯 Featured Projects
+
+### [MCP Server on Workers](https://github.com/dannwaneri/mcp-server-worker)
+HTTP-based MCP server deployed to Cloudflare's edge
+- Semantic search with Workers AI + Vectorize
+- Sampling context for intelligent tool responses
+- Sub-50ms global latency
+- Production-ready with CORS, error handling
+
+### [Vectorize MCP Server](https://github.com/dannwaneri/vectorize-mcp-server)
+Local MCP server bridging to Workers backend
+- stdio transport for Claude Desktop
+- True sampling implementation
+- Hybrid architecture pattern
+
+### [FPL Hub](https://fplhub.uk)
+Fantasy Premier League analytics platform
+- 2,000+ active users, 99.9% uptime
+- 500K+ daily API calls
+- ML-powered price predictions
+- Real-time match tracking
+
+### [Smart FAQ System](https://github.com/dannwaneri/smart-faq-worker)
+AI-powered FAQ with RAG
+- Workers AI + Vectorize integration
+- Semantic search + answer generation
+- Admin dashboard with React
+- Production deployment patterns
+
+---
+
+## 🤝 Open Source
+
+**Cobalt.tools** - Contributed to media downloading tool (50K+ stars)
+- International collaboration
+- Large-scale codebase serving millions globally
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **Upwork:** [Daniel Nwaneri](https://www.upwork.com/freelancers/~01d5946abaa558d9aa)
+- 📝 **DEV.to:** [@dannwaneri](https://dev.to/dannwaneri)
+- 📧 **Email:** danielnwaneri41@gmail.com
+- 🐦 **Twitter:** [@dannwaneri](https://twitter.com/dannwaneri)
+- 📍 **Location:** Port Harcourt, Nigeria
+
+---
+
+## 💼 Available For
+
+- MCP server development and architecture consulting
+- Cloudflare Workers AI implementations
+- RAG system design and deployment
+- Semantic search and vector database integration
+- Edge computing and serverless architecture
+- Technical writing and developer advocacy
+
+---
+
+## 🎓 Professional Highlights
+
+✅ Built production MCP servers deployed globally on Cloudflare's edge
+✅ Published technical guides with 3K+ views, shared to 200K+ developers
+✅ Engineered platform serving 2,000+ users with 99.9% uptime
+✅ Processes 500K+ daily API calls with sub-second response times
+✅ Achieved 60% page load reduction through optimization
+✅ Open-source contributor to high-impact projects (50K+ stars)
+
+---
+
+## 💭 Philosophy
+
+*"Every complex problem can be solved by breaking it down into fundamental subsets."*
+
+I focus on building scalable, production-ready solutions that combine clean architecture with cutting-edge AI capabilities. Whether it's deploying MCP servers at the edge, designing RAG systems, or optimizing high-traffic APIs, I prioritize both technical excellence and user experience.
+
+---
+
+⭐️ **Open to work on exciting AI and edge computing projects!**
+
+Check out my pinned repos below for production MCP implementations and technical deep-dives.
+```
+
