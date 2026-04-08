@@ -17,10 +17,11 @@ I'm a developer from Port Harcourt, Nigeria, focused on building **practical, co
 ## 💡 Recent Highlights
 
 - Built and open-sourced **SEO Audit Agent** (Python + Playwright + Claude) — Dogfooded on my own NaijaVPN domains, improving from **0/4 to 4/4 PASS** in one afternoon.
+- Built **spec-writer** — Claude/Code skill that generates high-quality technical specifications from feature descriptions.
 - Authored widely discussed articles:
-  - ["We're Creating a Knowledge Collapse and No One's Talking About It"](https://dev.to/dannwaneri)
-  - ["The Junior Developer Isn't Extinct — They're Stuck Below the API"](https://dev.to/dannwaneri)
-- Shipping production RAG, MCP servers, and semantic search tools at the edge.
+  - ["We're Creating a Knowledge Collapse and No One's Talking About It"](https://dev.to/dannwaneri/were-creating-a-knowledge-collapse-and-no-ones-talking-about-it-226d)
+  - ["Above the API: What Developers Contribute When AI Can Code"](https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025)
+  - ["Why Edge Computing Forced Me to Write Better Code (and Why That's the Future)"](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
 
 ---
 
@@ -46,20 +47,20 @@ Virtual Payment Navigator & Invoice Tool for Nigerian creators.
 ### [SEO Audit Agent](https://github.com/dannwaneri/seo-agent)
 Local Python AI SEO auditor with cost-curve optimization and human-in-the-loop.
 
+### [spec-writer](https://github.com/dannwaneri/spec-writer)
+AI skill/tool that writes detailed technical specifications from simple feature descriptions.
+
 ### [vectorize-mcp-worker](https://github.com/dannwaneri/vectorize-mcp-worker)
-Production RAG + semantic search on Cloudflare edge.
+Production hybrid RAG + semantic search on Cloudflare edge.
 
-### [smart-faq-worker](https://github.com/dannwaneri/smart-faq-worker)
-AI-powered FAQ with RAG and admin dashboard.
-
-### Other MCP & AI Tools
-- voice-humanizer, social-media-mcp-server, chat-knowledge, etc.
+### [voice-humanizer](https://github.com/dannwaneri/voice-humanizer)
+Claude Code skill that checks writing against your own voice.
 
 ---
 
 ## 📝 Writing & Thought Leadership
 
-Active on **dev.to** and **freeCodeCamp** with practical tutorials and opinion pieces on AI agents, knowledge preservation, and the future of developer work.
+Active on **dev.to** and **freeCodeCamp** with practical tutorials and deep dives on AI agents, edge computing, knowledge preservation, and the future of developer work.
 
 ---
 
@@ -68,7 +69,7 @@ Active on **dev.to** and **freeCodeCamp** with practical tutorials and opinion p
 - **X / Twitter**: [@dannwaneri](https://twitter.com/dannwaneri)
 - **DEV.to**: [@dannwaneri](https://dev.to/dannwaneri)
 - **Email**: danielnwaneri41@gmail.com
-- **Upwork**: Available for freelance (Cloudflare AI, Python agents, MCP, RAG)
+- **Upwork**: Available for freelance (Python AI agents, Cloudflare AI, MCP, RAG)
 
 ---
 
